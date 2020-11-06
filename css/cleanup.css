@@ -4,7 +4,9 @@
   display: none;
 }
 
-.slick
+.slick_wicked {
+  display: none;
+}
 
 #tag-5 {
   display: none;
